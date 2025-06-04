@@ -1,4 +1,4 @@
-﻿# Pizza-Party
+﻿# Pizza Party
 
 This C++ program calculates how many **pizzas** are needed for a party based on the number of **girls** (`A`) and **boys** (`B`). Here's a breakdown of how it works:
 
