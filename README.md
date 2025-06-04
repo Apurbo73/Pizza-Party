@@ -84,3 +84,6 @@ cout << pizzasNeeded << endl;
 * Calculates number of slices each person needs.
 * Divides total slices by 8 (slices per pizza), rounding up.
 
+This program calculates how many pizzas are needed based on how many slices boys and girls will eat. It takes two inputs: A and B, but uses them in a confusing way—A + 1 is treated as the number of boys (each eating 4 slices), and B is treated as the number of girls (each eating 3 slices). It then adds up the total number of slices needed.
+
+Since each pizza has 8 slices, the program divides the total slices by 8 and rounds up using (totalSlices + 7) / 8. Finally, it prints the number of pizzas required to make sure everyone gets enough. The logic works, but the variable names might be misleading or swapped.
