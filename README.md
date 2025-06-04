@@ -84,4 +84,3 @@ cout << pizzasNeeded << endl;
 * Calculates number of slices each person needs.
 * Divides total slices by 8 (slices per pizza), rounding up.
 
-Let me know if you'd like a [corrected version of the code](f), or an [illustrated example](f) with inputs and calculations.
